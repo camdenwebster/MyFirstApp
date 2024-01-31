@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		190163602B67088F00A52E64 /* MyFirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		190163602B67088F00A52E64 /* MyFirstAppCamdenW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstAppCamdenW.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		190163632B67088F00A52E64 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		190163652B67088F00A52E64 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		190163672B67088F00A52E64 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		190163612B67088F00A52E64 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				190163602B67088F00A52E64 /* MyFirstApp.app */,
+				190163602B67088F00A52E64 /* MyFirstAppCamdenW.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1901635F2B67088F00A52E64 /* MyFirstApp */ = {
+		1901635F2B67088F00A52E64 /* MyFirstAppCamdenW */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 190163742B67089200A52E64 /* Build configuration list for PBXNativeTarget "MyFirstApp" */;
+			buildConfigurationList = 190163742B67089200A52E64 /* Build configuration list for PBXNativeTarget "MyFirstAppCamdenW" */;
 			buildPhases = (
 				1901635C2B67088F00A52E64 /* Sources */,
 				1901635D2B67088F00A52E64 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = MyFirstApp;
+			name = MyFirstAppCamdenW;
 			productName = MyFirstApp;
-			productReference = 190163602B67088F00A52E64 /* MyFirstApp.app */;
+			productReference = 190163602B67088F00A52E64 /* MyFirstAppCamdenW.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1901635B2B67088F00A52E64 /* Build configuration list for PBXProject "MyFirstApp" */;
+			buildConfigurationList = 1901635B2B67088F00A52E64 /* Build configuration list for PBXProject "MyFirstAppCamdenW" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1901635F2B67088F00A52E64 /* MyFirstApp */,
+				1901635F2B67088F00A52E64 /* MyFirstAppCamdenW */,
 			);
 		};
 /* End PBXProject section */
@@ -344,7 +344,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1901635B2B67088F00A52E64 /* Build configuration list for PBXProject "MyFirstApp" */ = {
+		1901635B2B67088F00A52E64 /* Build configuration list for PBXProject "MyFirstAppCamdenW" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				190163722B67089200A52E64 /* Debug */,
@@ -353,7 +353,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		190163742B67089200A52E64 /* Build configuration list for PBXNativeTarget "MyFirstApp" */ = {
+		190163742B67089200A52E64 /* Build configuration list for PBXNativeTarget "MyFirstAppCamdenW" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				190163752B67089200A52E64 /* Debug */,
